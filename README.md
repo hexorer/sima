@@ -1,2 +1,2 @@
-# hodhod
+# sima
 Algebraic GUI.
